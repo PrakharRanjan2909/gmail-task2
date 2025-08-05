@@ -38,7 +38,7 @@ You won’t be able to fetch emails from my Gmail unless your Gmail account is a
 
 To demonstrate functionality, see sample-output.json (attached).
 
-You can add credentials.json using your account from 
+You can add credentials.json using your account in cd src\main\java\com\example\demo_task2\resources folder
   Go to Google Cloud Console
   Create a new project.
   
